@@ -14,7 +14,6 @@
 \usepackage{amsfonts}
 \usepackage{amssymb}
 \usepackage{hyperref}
-\usepackage{amsthm}
 \hypersetup{
 	colorlinks=true,
 	linkcolor=black,
@@ -23,6 +22,7 @@
 	pdfpagemode=FullScreen,
 }
 
+\usepackage{amsthm}
 \makeatletter
 
 \newtheorem*{remark}{Remark}
@@ -73,6 +73,7 @@
 		\thispagestyle{empty}
 	\end{center}
 \end{titlepage}
+
 \includegraphics{Exer4.1.1.JPG}
 \begin{remark}
     We didn't define `conditional prob. given a set' in the lecture, but in the textbook, the author said that ``To continue the connection with undergraduate notions, $P(A|B):=P(A\intersect B)\,/\,P(B)$''
@@ -111,6 +112,31 @@
 	Since the inequality above holds for any $a\in \R$, $E[Y^2|\G]-\frac{E^2[XY|\G]}{E[X^2|\G]}\geq0$ must hold, which implies that $E^2[XY|\G]\geq E[X^2|\G]E[Y^2|\G]$
 \end{proof}
 \vspace{1cm}
+
+\includegraphics{Exer4.1.4.JPG}
+\begin{proof}
+	Assume $X\in \LL^p$ and $Y\in \LL^q$.\\ $p$ and $q$ are conjugate exponents. Then by Young's inequality, $$\;xy\leq \frac{x^p}{p}+\frac{y^q}{q}\quad \; \forall\; x,y>0$$ 
+	Then for any $\varepsilon>0$, we have 
+	$$
+	\frac{|X|}{(E[|X|^p|\G]+\varepsilon)^{1/p}}\cdot \frac{|Y|}{(E[|Y|^q |\G]+\varepsilon)^{1/q}}\leq \frac{1}{p}\frac{|X|^p}{E[|X|^p|\G]+\varepsilon}+\frac{1}{q}\frac{|Y|^q}{E[|Y|^q |\G]+\varepsilon} \quad \cdots (\bigstar)
+	$$
+	Note that $E[|X|^p|\G]$ and $E[|Y|^q|\G]$ are $\G$-measurable. Also recall that if $Z>0$ and $Z$ is $\G$-measurable then $1/Z$ is also $\G$-measurable. Hence $1/(E[|X|^p|\G]+\varepsilon)$ and $1/(E[|Y|^q|\G]+\varepsilon)$ are all $\G$-measurable. \\
+	We shall take $E[\;\cdot\;|\G]$ on both sides of inequality above. Before that, we should check that both sides of the inequality $(\bigstar)$ are integrable.\\
+	Note that $XY$ is integrable by the assumption $X\in \LL^p$, $Y\in \LL^q$ and original H\"{o}lder inequality.
+	$$0\leq E[\,LHS\,]= E\Big[\frac{|X|}{(E[|X|^p|\G]+\varepsilon)^{1/p}}\cdot \frac{|Y|}{(E[|Y|^q |\G]+\varepsilon)^{1/q}}\Big]\leq E\Big[\frac{|X|}{\varepsilon^{1/p}}\cdot\frac{|Y|}{\varepsilon^{1/q}} \Big]=\frac{1}{\varepsilon}E|XY|<\infty$$
+	$$0\leq E[\,RHS\,]=E\Big[\frac{1}{p}\frac{|X|^p}{E[|X|^p|\G]+\varepsilon}+\frac{1}{q}\frac{|Y|^q}{E[|Y|^q |\G]+\varepsilon}\Big]\leq E\Big[\frac{1}{p}\frac{|X|^p}{\varepsilon}+\frac{1}{q}\frac{|Y|^q}{\varepsilon} \Big]=\frac{1}{\varepsilon}\Big(\frac{1}{p}E|X|^p +\frac{1}{q}E|Y|^q\Big)<\infty $$
+	Thus the both sides of inequality $(\bigstar)$ are integrable. (Actually, we add $\varepsilon$ for this.) Now take $E[\;\cdot\;|\G]$ on both sides. Then by smoothing property and linearity of conditional expectation, we have
+	\begin{align*}
+		\frac{1}{(E[|X|^p|\G]+\varepsilon)^{1/p}}\frac{1}{(E[|Y|^q |\G]+\varepsilon)^{1/q}}E[|XY|\, \big | \G] &\leq \frac{1}{p}\frac{1}{E[|X|^p|\G]+\varepsilon}E[|X|^p| \G]+\frac{1}{q}\frac{1}{E[|Y|^q |\G]+\varepsilon}E[|Y|^q|\G] \\ &\leq \frac{1}{p}+\frac{1}{q}=1
+	\end{align*}
+	Hence we have $$E[|XY|\, \big | \G]\leq (E[|X|^p|\G]+\varepsilon)^{1/p}(E[|Y|^q |\G]+\varepsilon)^{1/q}  \quad \; \forall\; \varepsilon>0$$
+	Taking $\varepsilon \rightarrow 0$, we have $E[|XY|\, \big | \G]\leq E[|X|^p |\G]^{1/p}E[|Y|^q|\G]^{1/q}$ as desired.  
+\end{proof}
+\begin{remark}
+	The problem was intended to use regular conditional probability in textbook, but I think this proof is more intuitive.
+\end{remark}
+\vspace{1cm}
+
 
 \includegraphics{Exer4.1.5.JPG}
 \begin{proof}
