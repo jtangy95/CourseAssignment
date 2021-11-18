@@ -67,7 +67,7 @@
 		\vspace{1.5cm}
 		\textbf{2021-21116 Taeyoung Chang}
 		\vfill
-		Exercises \\ Section 4.2 Martinagles, Almost Sure Convergence \\ Section 4.3 Examples \\ Section 4.3 Doob's Inequality, Convergence in $L^p$ 
+		Exercises \\ Section 4.2 Martinagles, Almost Sure Convergence \\ Section 4.3 Examples \\ Section 4.4 Doob's Inequality, Convergence in $L^p$ 
 	
 		\vspace*{3cm}
 		\thispagestyle{empty}
@@ -155,7 +155,7 @@
         \end{cases}
     \end{equation*}
     Note that $P(U_n<\frac{1}{n^2})=\frac{1}{n^2}\foranyn$ and $\sum_n P(U_n<\frac{1}{n^2})= \sum_n \frac{1}{n^2}<\infty$ . By Borel Cantelli lemma, this implies that $P(U_{n+1}<\frac{1}{n^2}\;\,i.o.)=0$ In other words, $$ P(U_{n+1}\geq \frac{1}{n^2}\;\,\text{all but finitely many n})=1$$
-    Let $B=(U_{n+1}\geq \frac{1}{n^2}\;\,\text{all but finitely many n})$ . Then $P(B)=1$ and for each $\omega\in B$ , there is large enough $N$ s.t. sequence $X_N, X_{N+1}, X_{N+2}, \cdots$ is given by $0,\pm1, 0, \pm1, \cdots$ . \\ Hence $\omega \in (X_n=1\;\,i.o.)\intersect (X_n=-1\;\,i.o.)\intersect (X_n=0\;\,i.o.)$ whenever $\omega\in B$ . Since $P(B)=1$, we have $P(X_n=a \;\,i.o.)=1$ for $a=-1,1,0$ \\ Also, since $|X_n|\leq (n!)^2 \foranyn$ and $|X_n|\leq 1$ for large enough $n\;\,a.s.$ we have $\sup_n|X_n|<\infty$ . By this $X_n$ is integrable. Also $X_n\in \F_n$ . To show $X_n$ is a martingale , it suffices to show that $E[X_{n+1}|\F_n]=X_n$
+    Let $B=(U_{n+1}\geq \frac{1}{n^2}\;\,\text{all but finitely many n})$ . Then $P(B)=1$ and for each $\omega\in B$ , there is large enough $N$ s.t. sequence $X_N, X_{N+1}, X_{N+2}, \cdots$ is given by $0,\pm1, 0, \pm1, \cdots$ . \\ Hence $\omega \in (X_n=1\;\,i.o.)\intersect (X_n=-1\;\,i.o.)\intersect (X_n=0\;\,i.o.)$ whenever $\omega\in B$ . Since $P(B)=1$, we have $P(X_n=a \;\,i.o.)=1$ for $a=-1,1,0$ \\ Also, since $|X_n|\leq (n!)^2 \foranyn$ and $|X_n|\leq 1$ for large enough $n\;\,a.s.$ we have $\sup_n|X_n|<\infty$ . By this , $X_n$ is integrable. Also $X_n\in \F_n$ . To show $X_n$ is a martingale , it suffices to show that $E[X_{n+1}|\F_n]=X_n$
     \begin{align*}
         E[X_{n+1}|\F_n] &=E[X_{n+1}I(X_n=0)+X_{n+1}I(X_n\neq 0)|\F_n] \\
         &= E[X_{n+1}I(X_n=0)|\F_n] +E[X_{n+1}I(X_n\neq 0)|\F_n] \\
