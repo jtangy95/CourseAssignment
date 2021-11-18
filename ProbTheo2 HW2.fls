@@ -2,8 +2,8 @@ PWD /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment
 INPUT /usr/local/texlive/2021/texmf.cnf
 INPUT /usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW1.tex
-OUTPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW1.log
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW2.tex
+OUTPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW2.log
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
@@ -488,10 +488,10 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.de
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW1.aux
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW1.aux
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW1.aux
-OUTPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW1.aux
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW2.aux
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW2.aux
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW2.aux
+OUTPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW2.aux
 INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -563,27 +563,20 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestri
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW1.out
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW1.out
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW1.out
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW1.out
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW1.out
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW1.out
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW1.out
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW1.out
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW1.out
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW1.out
-OUTPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW1.out
-OUTPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW1.pdf
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW2.out
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW2.out
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW2.out
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW2.out
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW2.out
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW2.out
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW2.out
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW2.out
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW2.out
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW2.out
+OUTPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW2.out
+OUTPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW2.pdf
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.1.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.1.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.1.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.1.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.1.JPG
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
@@ -609,44 +602,86 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.2.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.2.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.2.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.2.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.2.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.3.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.3.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.3.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.3.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.3.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.4.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.4.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.4.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.4.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.4.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.5.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.5.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.5.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.5.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.5.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.6.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.6.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.6.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.6.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.6.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.7.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.7.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.7.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.7.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.7.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.9.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.9.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.9.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.9.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.1.9.JPG
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW1.aux
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW1.out
-INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW1.out
+INPUT /usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.2.1.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.2.1.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.2.1.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.2.1.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.2.1.png
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.2.4.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.2.4.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.2.4.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.2.4.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.2.4.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.2.7.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.2.7.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.2.7.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.2.7.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.2.7.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Graph4.2.7.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Graph4.2.7.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Graph4.2.7.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Graph4.2.7.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Graph4.2.7.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.2.8.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.2.8.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.2.8.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.2.8.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.2.8.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.3.1.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.3.1.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.3.1.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.3.1.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.3.1.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.3.3.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.3.3.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.3.3.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.3.3.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.3.3.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.3.4.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.3.4.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.3.4.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.3.4.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.3.4.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.3.5.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.3.5.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.3.5.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.3.5.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.3.5.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.1.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.1.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.1.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.1.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.1.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.2.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.2.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.2.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.2.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.2.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.3.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.3.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.3.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.3.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.3.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.4.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.4.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.4.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.4.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.4.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.5.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.5.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.5.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.5.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.5.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.6.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.6.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.6.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.6.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/./images//Exer4.4.6.png
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW2.aux
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW2.out
+INPUT /Users/changtaeyeong/Desktop/ProbabilityTheory2/ProbTheo2Assignment/ProbTheo2 HW2.out
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
